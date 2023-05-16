@@ -1,1 +1,1 @@
-# Mayank-streamlit
+# ghostinlinux-streamlit
